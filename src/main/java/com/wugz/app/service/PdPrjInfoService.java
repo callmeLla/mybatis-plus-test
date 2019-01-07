@@ -9,7 +9,4 @@ import org.springframework.stereotype.Service;
 @Service
 public class PdPrjInfoService extends ServiceImpl<PdPrjInfoDao,PdPrjInfo> {
 
-
-
-
 }

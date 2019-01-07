@@ -337,6 +337,4 @@ public class LambdaQueryWrapperTestController {
         System.out.println(wrapper.getSqlSegment());
         return pdPrjInfoService.list(wrapper);
     }
-
-
 }
